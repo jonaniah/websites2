@@ -10,3 +10,6 @@ body{
 image{
     background-color: bisque;
 }
+::-webkit-search-decoration {
+    size: 100%;
+}
